@@ -1,0 +1,65 @@
+body {
+	background-color: gainsboro;
+	background-size: cover;
+	margin-top: 80px;
+	padding: 30px;
+
+}
+
+/*navbar*/
+
+#navbar {
+	overflow: hidden;
+
+}
+
+#navbar a {
+	float: none;
+	display: inline-block;
+	font-family: 'IBM Plex Sans', sans-serif;
+	color: white;
+	text-align: center;
+	padding: 14px;
+
+}
+
+
+header {
+	background-color: indigo;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 40px;
+
+}
+
+
+.jumbotron {
+	background-color: gray;
+	border: 5px solid indigo;
+	padding: 18px;
+} 
+
+.display-4 {
+	color: indigo;
+	font-family: 'Exo', sans-serif;
+	font-style: bold;
+	text-align: right;
+	margin: 20px;
+}
+
+#about-me {
+	padding: 20px;
+	margin: 20px;
+	color: white;
+	text-align: right;
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-style: 
+
+}
+
+.sections {
+	font-family: 'IBM Plex Sans', sans-serif;
+
+}
